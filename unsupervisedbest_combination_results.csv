@@ -1,0 +1,11 @@
+date_time,best_score,best_k,subset,min_combo_size,max_combo_size,max_k
+2026-06-23 10:07:38.150044,0.8316870365777818,2,"['lead_time_days', 'stay_nights', 'discount', 'final_price', 'is_b2b', 'book_from_recommendation']",6,6,3
+2026-06-23 10:13:26.870843,0.8316870365777818,2,"['lead_time_days', 'stay_nights', 'discount', 'final_price', 'is_b2b', 'book_from_recommendation']",6,7,3
+2026-06-23 10:30:35.271859,0.931670046603651,3,"['hotel_rank', 'discount', 'is_b2b', 'book_from_recommendation']",4,5,3
+2026-06-23 13:30:35.271859,0.9461,4,"['hotel_rank', 'discount', 'is_b2b', 'book_from_recommendation']",4,5,4
+2026-06-23 13:51:47.649816,0.9460902776590077,4,"['hotel_rank', 'discount', 'is_b2b', 'book_from_recommendation']",4,5,5
+2026-06-23 14:01:50.891579,0.8794691070777837,4,"['sum_room_extra_bed', 'hotel_rank', 'discount', 'is_b2b', 'book_from_recommendation']",5,6,5
+2026-06-25 16:07:42.177758,0.28895226533099483,2,"['lead_time_days', 'stay_nights', 'booking_month', 'booking_dow', 'sum_room_children', 'sum_room_extra_bed', 'hotel_rank', 'hotel_stars', 'discount', 'final_price', 'is_b2b', 'book_from_recommendation', 'city_id', 'hotel_accommodation']",14,14,5
+2026-06-25 16:14:22.376663,0.7855865322815733,2,"['lead_time_days', 'stay_nights', 'sum_room_children', 'sum_room_extra_bed', 'hotel_rank', 'discount', 'final_price', 'is_b2b']",8,10,5
+2026-06-25 16:31:13.156949,0.8316870365777818,2,"['lead_time_days', 'stay_nights', 'discount', 'final_price', 'is_b2b', 'book_from_recommendation']",6,8,5
+2026-06-29 22:09:17.821973,0.9460902776590077,4,"['hotel_rank', 'discount', 'is_b2b', 'book_from_recommendation']",4,5,5
